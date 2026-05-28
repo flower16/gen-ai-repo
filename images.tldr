@@ -204,10 +204,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:SDGUGJhzgJZdLX1bzrIa3"
-			],
-			"hoveredShapeId": "shape:SDGUGJhzgJZdLX1bzrIa3",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -379,12 +377,27 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -83.33333002196436,
-			"y": -424.99998311201773,
-			"z": 1,
+			"x": 153.3039482143783,
+			"y": -953.7510162057276,
+			"z": 0.3295808386710809,
 			"meta": {},
 			"id": "camera:page:LL9KGOxqO3qXP9xO80UU3",
 			"typeName": "camera"
+		},
+		{
+			"editingShapeId": "shape:BiE4qJ86UBu3jD_pNaNFY",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:BiE4qJ86UBu3jD_pNaNFY"
+			],
+			"hoveredShapeId": "shape:BiE4qJ86UBu3jD_pNaNFY",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:uMgiURXuDR4RmPK3s599s",
+			"pageId": "page:uMgiURXuDR4RmPK3s599s",
+			"typeName": "instance_page_state"
 		},
 		{
 			"x": 461.0416333278017,
@@ -646,6 +659,161 @@
 			},
 			"parentId": "page:LL9KGOxqO3qXP9xO80UU3",
 			"index": "aKwQZquV",
+			"typeName": "shape"
+		},
+		{
+			"x": -83.33333002196433,
+			"y": -61.805553099623594,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:uMgiURXuDR4RmPK3s599s",
+			"typeName": "camera"
+		},
+		{
+			"x": 234.35328674316406,
+			"y": 60.22677803039551,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BiE4qJ86UBu3jD_pNaNFY",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 576.2332763671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Repository"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "***********"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Code Collabration Tool"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Ex."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "      GitHub / GitLab / BitBucket / SVN / CVS /....."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Tool : Git"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "website : "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://git-scm.com/install/windows",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "https://git-scm.com/install/windows"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git --version"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:uMgiURXuDR4RmPK3s599s",
+			"index": "a1WGw92V",
 			"typeName": "shape"
 		},
 		{
@@ -1023,14 +1191,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "ellipse",
-				"tldraw:size": "s"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1040,8 +1205,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1177.5,
-				"h": 578.3333129882812
+				"w": 972.9166259765625,
+				"h": 527.0833129882812
 			},
 			"insets": [
 				false,
@@ -1056,7 +1221,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2.4000000953674316,
+			"devicePixelRatio": 2.880000114440918,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -1066,7 +1231,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:LL9KGOxqO3qXP9xO80UU3",
+			"currentPageId": "page:uMgiURXuDR4RmPK3s599s",
 			"typeName": "instance"
 		},
 		{
@@ -1113,6 +1278,13 @@
 			"parentId": "page:page",
 			"index": "a1D2nMnV",
 			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:uMgiURXuDR4RmPK3s599s",
+			"name": "Page 3",
+			"index": "a3HL80wV",
+			"typeName": "page"
 		},
 		{
 			"x": 132.33071899414062,
