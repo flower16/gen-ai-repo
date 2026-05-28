@@ -1,1 +1,108 @@
 welcome to github
+
+1) Repo (GitHub / GitLab / BitBucket)
+
+Environment Setup
+
+2) Python
+    high level programming language
+    
+    Machine Learning
+    Deep Learning
+    NLP
+    Gen AI
+    Agentic AI
+    Automations
+
+    Topic1:
+            variables with datatypes
+
+            1) int. 2) str. 3) bool.  4) list.  5) tuple.  6) dict. 7) set. 8) None
+
+    Topic2:
+            functions
+                business logic
+
+            lambda functions
+
+    Topic3:
+            OOPS
+        
+    Topic4:
+            numpy (numerical python)
+
+            list1 = []
+
+            list2 = [[]]
+
+            list3 = [[[[[]]]]]
+
+    Topic5:
+            pandas
+                Tabular Data (Rows & Cols)
+            able to read data from excel files / csv files / json files / .....
+
+    Topic6:
+            matplotlib
+                plots & graphs
+                Ex.
+                        Line Plot
+                        Bar Graph
+                        Pie Chart
+                        Scatter Plot
+                        Histogram Plot
+    Topic7:
+            seaborn (styles to graphs)
+
+            built on top of matplotlib
+
+
+Agentic AI
+**********
+
+    Goal --- without developer
+
+    LLM'S (ChatGPT, Claude, Gemini AI,Ollama,)
+
+        Transformers
+
+    Single Agent Development (LLM, Prompt, Tools, Memory)
+        Ex.
+                Review Code (C Code, C++ Code, Java Code, dotnet Code) --> Report p1,p2,p3,p4
+                Health App (blood test report) ---> (problems & medications)
+                AWS ---> Agent (AWS Health, Logs, admin)
+
+        1) RAG Protocol / Multi RAG Protocol
+        2) MCP Server / MCP Client
+        3) User Interface (React / Angular / VueJS)
+        4) Deploy (AWS / Azure / GCP)
+        5) Langchain
+
+    Multi Agent Development
+        Agent1 -- Agent2 -- Agent3 -- Agent4
+
+        LangGraph / CrewAI
+
+    Predefined Agents
+
+        n8n - more usecases
+
+    Usecases (Clear Interviews) (10+ usecases)
+
+
+
+Appln1 
+
+Agent --> Resume --> Feedback --> Shortlisted --> Basic Questions (Resume) --> Ask ---> Validate (>70%) --> Level2
+
+
+Generative AI  Hugging Face
+
+NLP
+
+DL
+
+ML (Supervised / UnSupervised / semi Supervised Learning / Reinforcement) (25+ Algo)
+
+Fast API'S (GET,POST,PUT,DELETE,......)
+    
