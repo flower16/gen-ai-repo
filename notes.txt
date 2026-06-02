@@ -105,4 +105,193 @@ DL
 ML (Supervised / UnSupervised / semi Supervised Learning / Reinforcement) (25+ Algo)
 
 Fast API'S (GET,POST,PUT,DELETE,......)
-    
+
+1) Python
+    variables and datatypes
+    functions
+    oops
+    libraries : 1) numpy
+                2) pandas
+                3) matplotlib
+                4) seaborn
+    conditions
+    loops
+    --
+    --
+    --
+
+    Statistsics also
+
+2) FastAPI with DataBase Connections (MongoDB / VectorDB)
+        GET
+        POST
+        PUT
+        DELETE
+        Auth & Authorization
+
+3) Machine Learning (ML)
+        25+ Algo (Mathematical Proff)
+        1) Supervised
+        2) UnSupervised
+        3) Semi Supervised
+        4) Reinforcement
+
+        Project (Health / EComm / ....)
+        Ex.
+            upload blood sample report ---> Result
+
+            Deploy : AWS (MLOps)
+
+4) Deep Learning (DL)
+        face auth
+
+5) Natural Language Processing (NLP)
+        Telugu,Hindi,English,Tamil,....
+
+        ChatBot Appln
+
+        ReactJS / SpringBoot (Microservices) / mvc
+
+        Microsoft Azure (CICD Pipeline)
+
+6) Generative AI
+        LLM'S ---> Arch ---> Build Our Own LLM
+
+        Langchain
+        LangGraph
+        CrewAI
+        HuggingFace 
+        ---
+        ---
+        ---
+
+7) Agentic AI
+        RAG (Retrival Augumentation Generation)
+        MCP Server
+        MCP Client
+
+        Single Agent
+
+        Ex.
+            upload coding file to Agent --> c,cpp,py,java..jsx,......
+
+            Report
+
+            p1
+            p2
+            p3
+            p4
+
+        upload x-ray (chest) --> pneouminia
+        ECG -- heart attack
+
+        bank statement -- calculate the TdS / GST
+
+        upload building plan --> AudoCad Images
+
+    Multi Agent Communication
+
+        Agent1 -- Agent2
+
+    HR Related Project --> Agent ---> Selected /Not Selected
+
+    GCP (CI/CD Pipeline)
+
+Zero Knowlwdge ---> allowed to attend class
+
+Chapter --> Assessments / Assignments (Faq'S) (Resumes)
+
+
+1min ---> Traffic (Agent)
+
+
+1) download and install VSCode. 
+
+website : https://code.visualstudio.com/download
+
+(Jupyter Notebook)
+
+(Google Colab)
+
+(PyCharm)
+
+
+2) download and install python
+
+    website : https://www.python.org/downloads/
+
+    python3 --version
+        (or)
+    python --version
+
+
+
+1) Agentic AI
+2) LLM
+3) RAG
+4) MCP Server
+5) MCP Client
+6) VectorDB
+7) LangGraph
+8) How to Build "Multi Agent Application"
+9) Deploy Multi Agent Application in "Azure" ("CI/CD" Pipeline)
+
+Agentic AI
+**********
+Task ---> without Human
+        (Tools) --> python functions
+Ex.
+        Agent (Robo)
+
+        Book Flight Ticket
+
+        1) Search Flight tck to Bangalore (Multiple)
+
+        2) Low Price Ticket
+
+        3) Book
+
+        4) Send email
+
+        5) Send Reminder Also
+
+LLM
+***
+    Large Language Model
+
+    Dog Bites Man
+    1.   2.    3
+
+
+    Tomarrow Ravi wants to Bangalore and he will attend interview day after Tomarrow
+                                        (Ravi)
+
+                    mat
+    cat sat on the------ mat (99%)
+                         wall (90%)
+                         house (80%)
+                         road (50%)
+                   ---
+                   ---
+                   ---
+
+
+
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
